@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "lingokids",
+    "slug": "snack-1eaed6f7-7912-4531-8001-266b4baa6b60",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/imagens/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/imagens/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/imagens/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/imagens/favicon.png"
+    }
+  }
+}
